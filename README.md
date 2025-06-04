@@ -43,3 +43,4 @@ I’m excited to join teams that value clean architecture, autonomy, and solving
 🔗 [LinkedIn](https://linkedin.com/in/sami-abushamat)  
 ✉️ Email: samiabushamat1@gmail.com  
 💻 Portfolio & Projects: [github.com/samiabushamat](https://github.com/samiabushamat)
+Website: (https://www.samiabushamat.com)
