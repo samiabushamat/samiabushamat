@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sami Abushamat
 
-I'm a software engineer and recent Computer Science graduate from the University of Illinois Chicago. I specialize in mobile and web development, with a passion for building clean, user-focused applications that solve real-world problems. I’m also the founder of **Sublime Applications**, where I’ve delivered custom digital solutions to small businesses across platforms.
+I'm a software engineer and recent Computer Science graduate from the University of Illinois Chicago. I specialize in mobile and web development, with a passion for building clean, user-focused applications that solve real-world problems. I’m also do freelance work under the name of Sublime Applications, where I’ve delivered custom digital solutions to small businesses across platforms.
 
 ---
 
